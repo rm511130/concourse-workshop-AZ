@@ -1,6 +1,8 @@
+![](./images/vmware-logo.png)
+
 # Concourse CI/CD Workshop
 
-![](./image/concourse-logo.png)
+![](./images/concourse-logo.png)
 
 ## Overview
 
