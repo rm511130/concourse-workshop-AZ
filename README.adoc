@@ -1,5 +1,7 @@
 # Concourse CI/CD Workshop
 
+![](./image/concourse-logo.png)
+
 ## Overview
 
 This 2 hour hands-on session will provide developers and operators with hands on experience building delivery pipelines using Concourse. The session includes presentations and hands on labs.
