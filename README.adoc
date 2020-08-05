@@ -22,6 +22,6 @@ Labs::
  * link:https://github.com/azwickey-pivotal/volume-demo[Cloudfoundry Blue/Green deployment]
  * link:https://github.com/azwickey-pivotal/concourse-deploy-gemfire[Create a pipeline that uses BOSH to deploy software]
 
-#
-## Concourse Intro
+=
+== Concourse Intro
 
